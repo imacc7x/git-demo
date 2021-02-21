@@ -1,6 +1,4 @@
 # git-demo
 Jeongyeon
 
-dub
-momo
-
+mina
