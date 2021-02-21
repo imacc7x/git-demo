@@ -1,10 +1,8 @@
 # git-demo
 Jeongyeon
 
+Twice
 
-mina
-
-
-momo
+Shinee
 
 
