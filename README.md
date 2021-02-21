@@ -2,9 +2,8 @@
 Jeongyeon
 
 
-sana 
+Tamin
 
-
-mina
+Twice
 
 
