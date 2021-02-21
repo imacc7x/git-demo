@@ -1,8 +1,5 @@
 # git-demo
 Jeongyeon
 
-Twice
-
-Shinee
-
+Tvxq
 
