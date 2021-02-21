@@ -1,6 +1,5 @@
 # git-demo
 Jeongyeon
 
-dub
-momo
+sana
 
