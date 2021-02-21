@@ -2,7 +2,7 @@
 Jeongyeon
 
 
-Tamin
+Taemin
 
 Twice
 
