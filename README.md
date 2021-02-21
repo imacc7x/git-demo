@@ -1,7 +1,9 @@
 # git-demo
 Jeongyeon
 
-sana
+sana twice
+
+momo
 
 mina
 
