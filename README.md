@@ -1,7 +1,10 @@
 # git-demo
 Jeongyeon
 
-Taemin
-momo
+
+sana 
+
+
+mina
 
 
