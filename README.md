@@ -1,11 +1,6 @@
 # git-demo
 Jeongyeon
 
-Taemin
-
-Ten
-momo
-
-sana
+Shinee
 
 TVXQ!
