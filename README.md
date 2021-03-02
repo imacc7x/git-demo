@@ -1,6 +1,4 @@
 # git-demo
 Jeongyeon
 
-Shinee
-
-TVXQ!
+SJ
