@@ -1,5 +1,5 @@
 # git-demo
-Jeongyeon
+Jeongyeon Twice
 
 edit code from git.
 
