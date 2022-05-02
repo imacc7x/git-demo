@@ -1,5 +1,6 @@
 # git-demo
 Jeongyeon
 
-SJ
-JYP
+code from git.
+
+this is miz.
