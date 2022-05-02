@@ -1,6 +1,6 @@
 # git-demo
 Jeongyeon
 
-code from git.
+edit code from git.
 
-this is miz.
+my name is miz.
