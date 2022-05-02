@@ -1,6 +1,8 @@
 # git-demo
-Jeongyeon Twice
 
-edit code from git.
+Commit code from git.
 
-my name is miz.
+by UserGit.
+
+
+
