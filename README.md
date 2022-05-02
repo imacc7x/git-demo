@@ -1,6 +1,5 @@
 # git-demo
-Jeongyeon Twice
 
-edit code from git.
+Commit code from repo.
 
-my name is miz.
+by Max.
