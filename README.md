@@ -1,4 +1,4 @@
 # git-demo
 
-edit 3
+edit 1
 
