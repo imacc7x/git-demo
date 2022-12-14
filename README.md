@@ -1,4 +1,3 @@
 # git-demo
 
-code by dev repo
-
+code by main repo
