@@ -1,5 +1,6 @@
 # git-demo
 
-edit by person local
-edit by online
+edit by 1
+edit by 2
+person
 
