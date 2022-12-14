@@ -1,5 +1,4 @@
 # git-demo
 
-code by local
-code by online repo
+code by dev repo
 
