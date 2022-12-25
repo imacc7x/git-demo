@@ -2,4 +2,4 @@
 
 edit readme
 
-by max github
+by max vscode
