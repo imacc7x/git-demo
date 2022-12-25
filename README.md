@@ -1,5 +1,5 @@
 # git-demo
 
-edit readme.md file
+edit readme.md
 
-by max vs code
+by max vscode
