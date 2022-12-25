@@ -1,6 +1,9 @@
 # git-demo
 
-edit readme.md
+fn a(){
+  1 2
+};
 
-by max vscode
-a
+fn b(){
+  1
+};
