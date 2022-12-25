@@ -2,4 +2,4 @@
 
 edit readme.md
 
-by max vscode
+by max vs code
