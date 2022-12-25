@@ -1,3 +1,3 @@
 # git-demo
 
-edit by max
+edit by github
